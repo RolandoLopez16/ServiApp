@@ -1,0 +1,67 @@
+﻿@page "/busetas"
+
+<PageTitle>Busetas</PageTitle>
+
+<h3>Agregar Vehículo</h3>
+
+<!-- Formulario para agregar vehículos -->
+<EditForm Model="@vehiculo">
+    <div class="form-group">
+        <label for="placa">Placa:</label>
+        <InputText id="placa" class="form-control" @bind-Value="@vehiculo.Placa" />
+    </div>
+
+    <div class="form-group">
+        <label for="noOrden">Número de Orden:</label>
+        <InputNumber id="noOrden" class="form-control" @bind-Value="@vehiculo.NoOrden" />
+    </div>
+
+    <div class="form-group">
+        <label for="capacidad">Capacidad:</label>
+        <InputNumber id="capacidad" class="form-control" @bind-Value="@vehiculo.Capacidad" />
+    </div>
+
+    <div class="form-group">
+        <label for="estado">Estado del Vehículo:</label>
+        <select id="estado" class="form-control" @bind="@vehiculo.IdEstado">
+
+              <!-- Se debe conectar a BD tabla estados -->
+            <option value="1">Disponible</option>
+            <option value="2">No disponible</option>
+            <!-- Agrega más opciones según tus necesidades -->
+        </select>
+    </div>
+
+    <button type="button" class="btn btn-primary" @onclick="GuardarVehiculo">Guardar</button>
+    <button type="button" class="btn btn-secondary" @onclick="Cancelar">Cancelar</button>
+</EditForm>
+
+@code {
+    // Objeto para almacenar los datos del vehículo
+    private Vehiculo vehiculo = new Vehiculo();
+
+    // Método para limpiar el formulario y cancelar la operación
+    private void Cancelar()
+    {
+        // Limpia los campos del formulario
+        vehiculo = new Vehiculo();
+    }
+
+    // Método para simular guardar el vehículo
+    private void GuardarVehiculo()
+    {
+        // Aquí puedes agregar lógica para mostrar un mensaje de confirmación o realizar alguna otra acción
+      
+        Console.WriteLine("Vehículo guardado: " + vehiculo.Placa);
+        // También podrías enviar los datos a través de una API o realizar otras operaciones simuladas
+    }
+
+    // Clase para representar los datos del vehículo
+    public class Vehiculo
+    {
+        public string Placa { get; set; } ="";
+        public int NoOrden { get; set; }
+        public int Capacidad { get; set; }
+        public int IdEstado { get; set; }
+    }
+}
