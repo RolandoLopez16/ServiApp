@@ -3,8 +3,7 @@ using System.Net.Http.Json;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-
-namespace ServiApp.Services
+namespace ServiApp.Services // Usa el espacio de nombres adecuado
 {
     public class ConductoresService
     {
@@ -15,15 +14,11 @@ namespace ServiApp.Services
             _httpClient = httpClient;
         }
 
-        public async Task<List<Conductor>> GetConductoresAsync()
-        {
-            return await _httpClient.GetFromJsonAsync<List<Conductor>>("api/conductores");
-        }
+       public async Task<List<Conductor>> GetConductoresAsync()
+{
+        return await _httpClient.GetFromJsonAsync<List<Conductor>>("Conductores");
+}
 
-        public async Task AddConductorAsync(Conductor nuevoConductor)
-        {
-            var response = await _httpClient.PostAsJsonAsync("api/conductores", nuevoConductor);
-            response.EnsureSuccessStatusCode();
-        }
+       
     }
 }
