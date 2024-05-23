@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ServiWeb
 build_property.RootNamespace = ServiWeb
-build_property.ProjectDir = D:\Documentos_Rolando\2024\Universidad\Aplicaciones_Web\clases_2024\Parcial_3_corte\FINAL\ServiApp\
+build_property.ProjectDir = C:\Users\lopez\OneDrive\Escritorio\ServiApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Documentos_Rolando\2024\Universidad\Aplicaciones_Web\clases_2024\Parcial_3_corte\FINAL\ServiApp
+build_property.MSBuildProjectDirectory = C:\Users\lopez\OneDrive\Escritorio\ServiApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/App.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/Busetas.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/Busetas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzZXRhcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/Conductores.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/Conductores.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZHVjdG9yZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/Counter.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/FetchData.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/Index.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/Recorridos.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/Recorridos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjb3JyaWRvcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Shared/SurveyPrompt.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/_Imports.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Shared/MainLayout.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-dzo8edgaa4
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Shared/NavMenu.razor]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-syt6c3xgof
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/Error.cshtml]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/_Host.cshtml]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos_Rolando/2024/Universidad/Aplicaciones_Web/clases_2024/Parcial_3_corte/FINAL/ServiApp/Pages/_Layout.cshtml]
+[C:/Users/lopez/OneDrive/Escritorio/ServiApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

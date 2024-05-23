@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lopez_Franco\\.nuget\\packages\\": {}
+    "C:\\Users\\lopez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\ServiWeb.csproj",
+      "projectUniqueName": "C:\\Users\\lopez\\OneDrive\\Escritorio\\ServiApp\\ServiWeb.csproj",
       "projectName": "ServiWeb",
-      "projectPath": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\ServiWeb.csproj",
-      "packagesPath": "C:\\Users\\Lopez_Franco\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\",
+      "projectPath": "C:\\Users\\lopez\\OneDrive\\Escritorio\\ServiApp\\ServiWeb.csproj",
+      "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lopez\\OneDrive\\Escritorio\\ServiApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lopez_Franco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
       }
     }
   }
