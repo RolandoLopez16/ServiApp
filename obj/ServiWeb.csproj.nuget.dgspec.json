@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\ServiWeb.csproj": {}
+    "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\ServiWeb.csproj": {}
   },
   "projects": {
-    "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\ServiWeb.csproj": {
+    "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\ServiWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\ServiWeb.csproj",
+        "projectUniqueName": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\ServiWeb.csproj",
         "projectName": "ServiWeb",
-        "projectPath": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\ServiWeb.csproj",
+        "projectPath": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\ServiWeb.csproj",
         "packagesPath": "C:\\Users\\Lopez_Franco\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\obj\\",
+        "outputPath": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lopez_Franco\\AppData\\Roaming\\NuGet\\NuGet.Config"

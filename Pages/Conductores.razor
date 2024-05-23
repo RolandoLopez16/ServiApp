@@ -1,81 +1,54 @@
 @page "/conductores"
+@using ServiApp.Services 
+@inject ConductoresService ConductoresService
 
 <PageTitle>Conductores</PageTitle>
 
-<h3>Agregar Conductor</h3>
+<h3>Listado de Conductores</h3>
 
-<EditForm Model="@conductor" OnValidSubmit="@GuardarConductor">
-    <DataAnnotationsValidator />
-
-    <div class="row justify-content-center my-4">
-        <div class="col-md-6">
-            <div class="card p-4 mb-3">
-                <h4 class="card-title">CONDUCTOR</h4>
-                <div class="form-group">
-                    <label for="nombre">Nombre:</label>
-                    <InputText id="nombre" class="form-control" @bind-Value="@conductor.Nombre" />
-                    <ValidationMessage For="@(() => conductor.Nombre)" />
-                </div>
-
-                <div class="form-group">
-                    <label for="apellido">Apellido:</label>
-                    <InputText id="apellido" class="form-control" @bind-Value="@conductor.Apellido" />
-                    <ValidationMessage For="@(() => conductor.Apellido)" />
-                </div>
-
-                <div class="form-group">
-                    <label for="cedula">Cédula:</label>
-                    <InputText id="cedula" class="form-control" @bind-Value="@conductor.Cedula" />
-                    <ValidationMessage For="@(() => conductor.Cedula)" />
-                </div>
-
-                <div class="form-group">
-                    <label for="fechaLicencia">Fecha de expedición de la licencia:</label>
-                    <InputDate id="fechaLicencia" class="form-control" @bind-Value="@conductor.FechaLicencia" />
-                    <ValidationMessage For="@(() => conductor.FechaLicencia)" />
-                </div>
-
-                <div class="form-group">
-                    <label for="tarifaServicio">Tarifa por servicio:</label>
-                    <InputNumber id="tarifaServicio" class="form-control" @bind-Value="@conductor.TarifaServicio" />
-                    <ValidationMessage For="@(() => conductor.TarifaServicio)" />
-                </div>
-                    <button type="submit" class="btn btn-primary">Guardar</button>
-                    <button type="button" class="btn btn-secondary" @onclick="Cancelar">Cancelar</button>
-                </div>
-           
-        </div>
-    </div>
-
-</EditForm>
+@if (conductores != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Cédula</th>
+                <th>Fecha de Licencia</th>
+                <th>Tarifa por Servicio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var conductor in conductores)
+            {
+                <tr>
+                    <td>@conductor.Nombre</td>
+                    <td>@conductor.Apellido</td>
+                    <td>@conductor.Cedula</td>
+                    <td>@conductor.FechaLicencia</td>
+                    <td>@conductor.TarifaPorServicio</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Cargando...</p>
+}
 
 @code {
-    // Objeto para almacenar los datos del conductor
-    private Conductor conductor = new Conductor();
+    private List<Conductor> conductores;
 
-    // Método para guardar el conductor (no implementado en este ejemplo)
-    private void GuardarConductor()
+    protected override async Task OnInitializedAsync()
     {
-        // Este método se ejecutará cuando el formulario se envíe
-          Console.WriteLine("conductor agregado: " + conductor.Cedula);
-        // Aquí deberías implementar la lógica para guardar los datos del conductor en la base de datos
-    }
-
-    // Método para limpiar el formulario y cancelar la operación
-    private void Cancelar()
-    {
-        // Este método se ejecutará cuando el usuario haga clic en el botón "Cancelar"
-        // Aquí puedes limpiar los campos del formulario o realizar alguna otra acción según sea necesario
-        conductor = new Conductor(); // Limpiar los campos del conductor
-    }
-
-    // Clase para representar los datos del conductor
-    public class Conductor
-    {
-        public string Nombre { get; set; } ="";
-        public string Apellido { get; set; } ="";
-        public string Cedula { get; set; } ="";
-        public DateTime FechaLicencia { get; set; }
-        public decimal TarifaServicio { get; set; }
+        try
+        {
+            conductores = await ConductoresService.GetConductoresAsync();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error al obtener conductores: {ex.Message}");
+        }
     }
 }

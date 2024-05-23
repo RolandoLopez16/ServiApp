@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+RlOGL9gqCynctdtt8mGFNhU+9v4a3WTfv3Pv+DVK7U=",
+  "Hash": "jtVrRCxE5GAkoBxGiOmcBabwoEMpSs1QHSsstoRXW3o=",
   "Source": "ServiWeb",
   "BasePath": "_content/ServiWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ServiWeb\\wwwroot",
       "Source": "ServiWeb",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServiWeb.styles.css",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServiWeb.styles.css",
       "SourceId": "ServiWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "ServiWeb.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServiWeb.styles.css"
+      "OriginalItemSpec": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ServiWeb.styles.css"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServiWeb.bundle.scp.css",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServiWeb.bundle.scp.css",
       "SourceId": "ServiWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "ServiWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServiWeb.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ServiWeb.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\css\\site.css",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\favicon.ico",
       "SourceId": "ServiWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_2_corte\\ServiApp\\ServiWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Documentos_Rolando\\2024\\Universidad\\Aplicaciones_Web\\clases_2024\\Parcial_3_corte\\FINAL\\ServiApp\\wwwroot\\",
       "BasePath": "_content/ServiWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
